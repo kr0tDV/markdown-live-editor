@@ -81,7 +81,7 @@ function hello() {
   console.log('Hello!');
 }
 ```
-
+```
 > Цитата
 
 [Ссылка](https://example.com)
